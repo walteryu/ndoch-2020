@@ -1,0 +1,10 @@
+*.csvt
+*.Rhistory
+*.code-workspace
+
+git_stage.sh
+git_cached.sh
+check_repo.sh
+
+/archive
+/.ipynb_checkpoints/
